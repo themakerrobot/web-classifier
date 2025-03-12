@@ -1,1 +1,1 @@
-# web-classifier
+Image Classifier (Webcam)
